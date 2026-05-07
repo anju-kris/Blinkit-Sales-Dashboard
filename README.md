@@ -1,27 +1,32 @@
 # Blinkit Sales Analysis Dashboard
 
-End-to-end SQL analysis of Blinkit (India's Last Minute App) sales data.
+![Blinkit Sales Dashboard](dashboard.png)
+
+**End-to-End SQL Analysis** of Blinkit (India's Last Minute Delivery App) sales data.
+
+---
 
 ## 📊 Project Overview
-- Data Cleaning & Imputation
-- Exploratory Data Analysis (EDA)
-- Outlet Performance Analysis
-- Fat Content Analysis
-- Rating vs Sales Analysis
-- Outlier Detection
 
-## 🛠 Technologies
-- PostgreSQL / SQL
-- Data Cleaning & Window Functions
-- Dashboard Visualization (Image attached)
+This project performs comprehensive data cleaning, exploratory data analysis (EDA), and business insights generation on Blinkit sales data using **PostgreSQL**.
 
-## 📁 Files
-- `schema.sql` → Table creation and cleaning
-- `eda_queries.sql` → All analysis queries
-- `dashboard.png` → Final dashboard
+### Key Insights from the Dashboard:
+- **Total Sales**: ₹1.20 Million
+- **Average Sales**: ₹140.99
+- **Average Rating**: 3.97
+- **Total Items**: 9K
+- **Top Performing Outlet**: Supermarket Type 1 (₹0.79M)
+- **Low Fat Products Contribution**: **64.6%** of total sales
+- **Top Revenue Category**: Fruits & Vegetables
 
-## Key Insights
-- Total Sales: ₹1.20M
-- Supermarket Type 1 is the top performer
-- Low Fat products contribute 64.6% of sales
-- Fruits & Vegetables is the highest revenue category
+---
+
+## 🛠 Technologies Used
+
+- **Database**: PostgreSQL
+- **SQL Features**: Window Functions, CTEs, Percentile Analysis, Data Imputation
+- **Visualization**: Dashboard (included)
+
+---
+
+## 📁 Project Structure
