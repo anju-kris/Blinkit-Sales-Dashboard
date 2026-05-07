@@ -1,0 +1,48 @@
+# =============================================
+# .gitignore for Blinkit Sales Analysis Project
+# =============================================
+
+# Database related
+*.sql.backup
+*.bak
+*.dump
+*.db
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables / sensitive data
+.env
+*.env
+
+# Large data files (if any)
+*.csv
+*.xlsx
+*.xls
+data/raw/
+
+# Python (if you add Python scripts later)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
