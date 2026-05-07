@@ -1,7 +1,7 @@
 -- =============================================
 -- BLINKIT SALES ANALYSIS - EDA QUERIES
 -- =============================================
--- Author: Your Name
+-- Author: Anju krishna E 
 -- Date: May 2026
 -- Description: Exploratory Data Analysis for Blinkit Sales Dashboard
 
