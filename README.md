@@ -24,7 +24,7 @@ This project involves **data cleaning, transformation, and exploratory data anal
 ## 🛠 Technologies Used
 
 - **Database**: PostgreSQL
-- **SQL Features**: 
+- **SQL Features**:
   - Window Functions
   - Common Table Expressions (CTEs)
   - Data Imputation
@@ -35,7 +35,7 @@ This project involves **data cleaning, transformation, and exploratory data anal
 
 ## 📁 Project Structure
 blinkit-sales-analysis/
-├── README.md                 # Project documentation (this file)
+├── README.md                 # Project documentation
 ├── schema.sql                # Table creation & Data Cleaning
 ├── eda_queries.sql           # All Exploratory Data Analysis queries
 ├── dashboard.png             # Final Blinkit Sales Dashboard
@@ -46,11 +46,9 @@ text---
 
 1. **Setup the Database**
    ```bash
-   # Run schema file first
    psql -U your_username -d your_database -f schema.sql
 
-Run Analysis QueriesBash# Execute EDA queries
-psql -U your_username -d your_database -f eda_queries.sql
+Run Analysis QueriesBashpsql -U your_username -d your_database -f eda_queries.sql
 
 
 📋 Analyses Covered
