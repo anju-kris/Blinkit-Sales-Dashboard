@@ -1,7 +1,7 @@
 -- =============================================
 -- BLINKIT SALES ANALYSIS - SCHEMA & DATA CLEANING
 -- =============================================
--- Author: Your Name
+-- Author: Anju krishna E
 -- Date: May 2026
 -- Description: Table creation and data cleaning for Blinkit Sales Dashboard
 
