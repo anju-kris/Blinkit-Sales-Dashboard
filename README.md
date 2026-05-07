@@ -1,10 +1,10 @@
 # Blinkit Sales Analysis Dashboard
 
+**By Anju Krishna E**
+
 ![Blinkit Sales Dashboard](dashboard.png)
 
 **End-to-End SQL Analysis** of Blinkit (India's Last Minute Delivery App) sales data.
-
----
 
 ## 📊 Project Overview
 
